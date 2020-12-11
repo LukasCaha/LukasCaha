@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my GitHub page
+I am passionate game developer with 5 years of experience in Unity. On my
+journey, I co-founded indie studio Evorsion.
 
-<!--
-**LukasCaha/LukasCaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Hair Pandemic](https://play.google.com/store/apps/details?id=com.Evorsion.HairPandemic)
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on Android Games
+- 🤔 I’m looking for help with Oxigine for C++
+- 💬 Ask me about Unity3D
+- 📫 How to reach me: lukas.caha@outlook.com
+- 🎮 See my past games at [Itch.io](https://evorsion.itch.io/)
+- 🐦 Twitter is where I try to network: [message me](https://twitter.com/lukas_caha)
+- ✍️ Medium is where I try to write: [read something](https://lukascaha.medium.com/)
