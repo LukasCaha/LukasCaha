@@ -1,6 +1,14 @@
 ### Welcome to my GitHub page
+
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/LukasCaha/LukasCaha)](https://badges.pufler.dev)
+
 I am passionate game developer with 5 years of experience in Unity. On my
 journey, I co-founded indie studio Evorsion.
+
+| <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> | <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>| <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> |
+| --- | --- | --- | --- |
 
 - 🔭 I’m currently working on [Hair Pandemic](https://play.google.com/store/apps/details?id=com.Evorsion.HairPandemic)
 - 🌱 I’m currently learning C++
@@ -11,3 +19,6 @@ journey, I co-founded indie studio Evorsion.
 - 🎮 See my past games at [Itch.io](https://evorsion.itch.io/)
 - 🐦 Twitter is where I try to network: [message me](https://twitter.com/lukas_caha)
 - ✍️ Medium is where I try to write: [read something](https://lukascaha.medium.com/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasCaha&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
