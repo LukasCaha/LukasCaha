@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page
 
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukasCaha&repo=LukasCaha&countColorcountColor&countColor=%237B1E7A)
 
 I am passionate game developer with 5 years of experience in Unity. On my
 journey, I co-founded indie studio Evorsion.
