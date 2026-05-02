@@ -5,12 +5,12 @@
 
 As a programmer, I can leverage my years of experience in IT to set a new standard of cleaning services for Czech homes. The job of a cleaning lady is as important as any other. And that's why we at Youklid aim to create a suitable environment for our employees so they are able to create tidy homes for our clients.
 
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>| <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |
-| --- | --- | --- | --- | --- |
+| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>| <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |
+| --- | --- | --- | --- |
 
 My work:
 - 🔭 I’m currently working at [Youklid](https://youklid.cz/)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Go
 - 🤝 I’m looking for web developers
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about Laravel
