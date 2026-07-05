@@ -24,3 +24,13 @@ Contact:
 Other sites proving my coding proficiency:
 - 💻 Leetcode is where I practice [coding and algorithms](https://leetcode.com/LukasCaha/)
 - 🧩 CSS Battle is where I sharpen my [CSS skills](https://cssbattle.dev/player/bD893G1tQPSkisod6xqya8fLXvo2)
+
+
+<div align="center">
+  <a href="https://commit-history.com/LukasCaha">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/LukasCaha?theme=dark" />
+      <img alt="LukasCaha's commit history" src="https://commit-history.com/embed/LukasCaha" />
+    </picture>
+  </a>
+</div>
